@@ -1,0 +1,10 @@
+{
+  "description": "Manage and track UPI transactions effortlessly with a user-friendly dashboard designed for morning, afternoon, and evening insights, perfect for individuals and businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
